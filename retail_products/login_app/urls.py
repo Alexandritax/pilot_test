@@ -6,7 +6,4 @@ urlpatterns = [
     path('main/', views.print_world, name= "Main")
     
 
-
-
-
 ]
